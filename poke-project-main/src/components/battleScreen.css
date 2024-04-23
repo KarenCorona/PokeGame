@@ -1,0 +1,18 @@
+
+
+
+.battle-conntainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.battle-screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width: 100%;
+    height: 50%;
+}
